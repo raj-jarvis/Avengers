@@ -1,5 +1,5 @@
 <?php
 	clean();
 	info();
-	
+	time();
 ?>
